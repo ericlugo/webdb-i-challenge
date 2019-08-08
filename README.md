@@ -55,3 +55,7 @@ The following exercises **require research**, the concepts needed to complete th
   sortdir: 'desc'
 }
 ```
+
+---
+
+### This fork is maintained by: Eric SarragaLugo
